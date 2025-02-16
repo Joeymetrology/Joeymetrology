@@ -2,7 +2,7 @@
 - 👀 I’m interested in metrology and accomlishing the metrological algorithm with program language
 - 🌱 I’m currently learning python and had finished 30s tool programs using Cursor and VSCODE+Copilot in one and half months 
 - 💞️ I’m looking to collaborate on the algorithms for oil&gas metering
-- 📫 How to reach me: ehfjo8@gmail.com
+- 📫 How to reach me: ehfjo@126.com
 - 😄 Pronouns: Joe
 - ⚡ Fun fact: ...
 
